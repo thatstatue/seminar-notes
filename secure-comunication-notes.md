@@ -43,7 +43,6 @@
 
 ### Formulation:
 
-```math
 As + e = b \pmod{q}
 s: secret vector
 
